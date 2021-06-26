@@ -1,0 +1,14 @@
+{
+  "projectName": "Projekt magisterkis - 2020/2021",
+  "author": "Mikołaj Bachorz",
+  "reportPrefix": "report",
+  "reportsCatalog": "reports",
+  "dateFormat": "%Y-%m-%d-%H-%M-%S",
+  "networksCatalog": "networks",
+  "networkPrefix": "network",
+  "algorithmFordFulkerson": true,
+  "algorithmEdmondsKarp": true,
+  "algorithmDinic": true,
+  "algorithmRelabelToFront": true,
+  "additionalRaportInfo": false
+}
